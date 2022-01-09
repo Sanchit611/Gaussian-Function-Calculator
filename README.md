@@ -22,7 +22,7 @@ This eases out the manual effort in doing lengthy calculations and does the same
 
 <h2>Details:</h2>
 <pre>
-Name : Sanchit Narang <br>
+Developed by : Sanchit Narang <br>
 E-mail : sanchitnarang611@gmail.com <br>
 <a target="_blank" href="https://sanchit611.github.io/Gaussian-Function-Calculator/" >Click Here</a> to view the project.
 </pre>
