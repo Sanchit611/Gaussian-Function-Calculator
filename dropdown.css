@@ -1,0 +1,13 @@
+.dd {
+  margin-top: 20px;
+  margin-bottom: -50px;
+  height: 30px;
+  width: 120px;
+  font-size: 20px;
+  align-content: center;
+  border-color: blanchedalmond;
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+  background: rgb(60, 60, 63);
+}
