@@ -1366,27 +1366,3 @@ resDiv.style["justifyContent"] = "center";
 resDiv.style["marginTop"] = "20px";
 resDiv.innerHTML = `<button onclick="back()" style=" width: 200px; background-color: transparent; color: blanchedalmond; border-color: blanchedalmond; font-size: 32px;border-radius: 10px; padding: 5px; "> <i class="far fa-arrow-alt-circle-left"></i> <b>Go back</b> </button>`;
 document.getElementById("body").appendChild(resDiv);
-
-if(document.body.clientWidth <= 820){
-let mobileDiv = document.createElement("div");
-mobileDiv.style["display"] = "flex";
-mobileDiv.style["justifyContent"] = "center";
-mobileDiv.style["marginTop"] = "20px";
-
-mobileDiv.innerHTML=` 
-<center>
-  <div class="login-box">
-    <a class="bt" style="font-size: 90%;" href="https://chem.libretexts.org/Courses/Pacific_Union_College/Quantum_Chemistry/11%3A_Computational_Quantum_Chemistry/11.02%3A_Gaussian_Basis_Sets" target="_blank" > <center>GAUSSIAN BASIS SETS</center></a>
-    <!-- <a class="bt" style="font-size: 90%;" href="https://chem.libretexts.org/Courses/Pacific_Union_College/Quantum_Chemistry/11%3A_Computational_Quantum_Chemistry/11.02%3A_Gaussian_Basis_Sets" target="_blank" > <center>GAUSSIAN BASIS SETS</center></a> -->
-    <a href="/notes.pdf" class="bt" download style="font-size: 90%;">
-      DOWNLOAD NOTES
-     </a>
-    <br>
-
-    </div>
-</center>`;
-document.getElementById("body").appendChild(mobileDiv);
-}
-
-
-
