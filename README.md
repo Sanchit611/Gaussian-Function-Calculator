@@ -1,7 +1,6 @@
 # Gaussian Function Calculator
 <br>
-![image](https://user-images.githubusercontent.com/79566726/148695036-468ad638-aaea-4dbb-a93d-87a425703c43.png)
-
+<img src="https://user-images.githubusercontent.com/79566726/148695036-468ad638-aaea-4dbb-a93d-87a425703c43.png"></img>
 
 <h2>About this Project: </h2>
 <pre>
