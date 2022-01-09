@@ -19,5 +19,9 @@ This eases out the manual effort in doing lengthy calculations and does the same
 <h2>Built With: </h2>
 <pre>HTML | CSS | JAVASCRIPT</pre>
 
-<h2>Email : sanchitnarang611@gmail.com </h2>
-<pre> Project is deployed at the following link. Click to view ->  https://sanchit611.github.io/Gaussian-Function-Calculator/ </pre>
+<h2>Contact:</h2>
+<pre>
+Name : Sanchit Narang <br>
+E-mail : sanchitnarang611@gmail.com <br>
+<a href="https://sanchit611.github.io/Gaussian-Function-Calculator/"> Click Here </a> to view the project.
+</pre>
