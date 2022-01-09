@@ -23,5 +23,5 @@ This eases out the manual effort in doing lengthy calculations and does the same
 <pre>
 Name : Sanchit Narang <br>
 E-mail : sanchitnarang611@gmail.com <br>
-<a href="https://sanchit611.github.io/Gaussian-Function-Calculator/" target="_blank">Click Here</a> to view the project.
+<a target="_blank" href="https://sanchit611.github.io/Gaussian-Function-Calculator/" >Click Here</a> to view the project.
 </pre>
