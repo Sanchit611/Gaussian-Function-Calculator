@@ -1,4 +1,4 @@
-# Gaussian Function Calculator
+# Gaussian Function & Basis Set Calculator
 <br>
 <img src="https://user-images.githubusercontent.com/79566726/148695036-468ad638-aaea-4dbb-a93d-87a425703c43.png"></img>
 
