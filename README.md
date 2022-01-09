@@ -19,7 +19,7 @@ This eases out the manual effort in doing lengthy calculations and does the same
 <h2>Built With: </h2>
 <pre>HTML | CSS | JAVASCRIPT</pre>
 
-<h2>Contact:</h2>
+<h2>Details:</h2>
 <pre>
 Name : Sanchit Narang <br>
 E-mail : sanchitnarang611@gmail.com <br>
