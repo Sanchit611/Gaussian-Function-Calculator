@@ -18,7 +18,7 @@ This eases out the manual effort in doing lengthy calculations and does the same
 5. The result page will give you detailed solution to the problem.
 </pre>
 <h2>Built With: </h2>
-<pre>HTML | CSS | JAVASCRIPT</pre>
+<pre>HTML | CSS | JAVASCRIPT | EMBEDDED JS | NODEJS</pre>
 
 <h2>Details:</h2>
 <pre>
