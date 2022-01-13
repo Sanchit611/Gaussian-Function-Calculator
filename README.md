@@ -25,6 +25,6 @@ This eases out the manual effort in doing lengthy calculations and does the same
 Developed by: Sanchit Narang <br>
 E-mail : sanchitnarang611@gmail.com <br>
 <a target="_blank" href="https://sanchit611.github.io/Gaussian-Function-Calculator/" >Click Here</a> to view the project. <br>
-Code is pushed in the master branch.<bt>
+
 </pre>
 
